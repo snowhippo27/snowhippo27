@@ -1,3 +1,5 @@
-All Packs made by snowhippo are protected under copyright IP.
-I do not give anyone permission to distribute an packs or parts of packs made by me unless explicitly stated otherwise.
-If I find anyone to be using any of my work for any reason that is was not approved by me, I reserved the right to take down and claim that work.
+All packs created by me are available for public use.
+If you use any of my textures, I only ask 2 things;
+1. You at least make some changes, not just redistribute my original pack.
+2. You leave a link back to the original GitHub project that you used from.
+If you don't do both of those things, I contact you, and if you refuse to change it, I will take down and/or claim the post/download/project.
